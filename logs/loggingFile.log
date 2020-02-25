@@ -1,0 +1,16 @@
+25-02-20 21:53:20 INFO  SimpleInt:8 - Entered into SimpleInterest Function
+25-02-20 21:53:20 INFO  SimpleInt:9 - Calculating Simple Interest
+25-02-20 21:53:20 INFO  CompoundInt:8 - Entered into Compound Interest Function
+25-02-20 21:53:20 INFO  CompoundInt:10 - Calculating Compound Interest
+25-02-20 21:53:20 INFO  CompoundInt:13 - Returning Compound interest
+25-02-20 21:53:26 INFO  CostOfHouse:8 - Entered into Cost Function
+25-02-20 21:53:26 INFO  CostOfHouse:10 - Calculating cost of house
+25-02-20 21:53:26 INFO  CostOfHouse:27 - Returning cost
+25-02-20 22:29:27 INFO  SimpleInt:8 - Entered into SimpleInterest Function
+25-02-20 22:29:27 INFO  SimpleInt:9 - Calculating Simple Interest
+25-02-20 22:29:27 INFO  CompoundInt:8 - Entered into Compound Interest Function
+25-02-20 22:29:27 INFO  CompoundInt:10 - Calculating Compound Interest
+25-02-20 22:29:27 INFO  CompoundInt:13 - Returning Compound interest
+25-02-20 22:29:37 INFO  CostOfHouse:8 - Entered into Cost Function
+25-02-20 22:29:37 INFO  CostOfHouse:10 - Calculating cost of house
+25-02-20 22:29:37 INFO  CostOfHouse:27 - Returning cost
